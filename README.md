@@ -1,0 +1,10 @@
+My name is Madeline King, a video game enthusiast, prolific writer, and avid learner with a passion for interactive experiences, user-centered design, and innovative technologies. I'm a recent Georgia Tech grad with a Bachelor of Science in Computational Media. This portfolio represents the best of my work in technical writing, highlighting the unique experiences I've had and the skills I've developed over the course of working toward my degree. Below is a brief explanation of each sample, what I learned while creating it, and why I think it is a good representation of my ability:
+
+Detailed Design Document:
+  This project marked the culmination of a year's worth of development experience on a data visualization software. While I did not author the entire report, I contributed a significant portion of the final product and was the primary editor. This project gave me experience in formatting and delivering detailed development documentation, creating informative, clear infographics, and collaborating effectively with peers with unique skill sets and perspectives.
+
+Research Papers:
+  These samples are term papers I've researched and composed. One explores the potential ramifications of the 'Loot Box' system of microtransactions on audiences, while the other examines the concept of linguistic relativity in cognitive science. These samples highlight my authorial voice and strong command of language. They also demonstrate my ability to conduct in-depth research, analyze sources, and synthesize that data into a coherent, informative report.
+
+Scientific Report:
+  This sample is a collaborative scientific report I co-authored, documenting a research project conducted in collaboration with another university on the use of VR technology in speech therapy. It includes key elements, like an abstract, background analysis, implementation description, results, and reflection. Through this experience, beyond what I learned actually devloping and testing the technology, I practiced using structure to communicate research questions and outcomes effectively.
